@@ -1,6 +1,10 @@
 # LearningRecord
 
-學習紀錄
+學習資源
+
+## Youtube
+
+* 尚硅谷IT培训学校 - 【韩顺平】Go语言零基础教程
 
 ## Udemy
 
