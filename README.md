@@ -8,6 +8,7 @@
 * 尚硅谷IT培训学校 - MySQL核心技术全套教程
 * 尚硅谷IT培训学校 - Docker全套教程
 * 尚硅谷IT培训学校 - Nginx全套教程
+* 尚硅谷IT培训学校 - Linux教程
 
 ## Udemy
 
